@@ -25,7 +25,7 @@ Features
 1. Clone the Repository
 
 ```sh
-https://github.com/ImUpXD/ViewBot.git
+git clone https://github.com/ImUpXD/ViewBot.git
 cd ViewBot
 ```
 2. install requirements
