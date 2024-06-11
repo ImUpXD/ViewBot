@@ -26,7 +26,7 @@ Features
 
 ```sh
 https://github.com/ImUpXD/ViewBot.git
-cd chimera
+cd ViewBot
 ```
 2. install requirements
 
