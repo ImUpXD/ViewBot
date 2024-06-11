@@ -25,7 +25,7 @@ Features
 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/chimera.git
+https://github.com/ImUpXD/ViewBot.git
 cd chimera
 ```
 2. install requirements
