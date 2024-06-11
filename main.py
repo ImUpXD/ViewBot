@@ -96,8 +96,8 @@ def get_user_input():
     if streaming_platform == "youtube":
         username_or_url = input(Colorate.Vertical(Colors.green_to_blue, "Enter the full YouTube URL (e.g https://www.youtube.com/watch?v=03nrv09T7bs): "))
     else:
-        username_or_url = input(Colorate.Vertical(Colors.green_to_blue, "Enter your channel name (e.g ninja): "))
-    print('')
+        username_or_url = input(Colorate.Vertical(Colors.green_to_blue, "Enter your channel name (e.g ): "))
+    print('') 
     set_160p = input(Colorate.Vertical(Colors.purple_to_red, "Do you want to set the stream quality to 160p (recommended)? (yes/no): "))
     if streaming_platform != "twitch":
         print(Colors.red)
@@ -178,7 +178,7 @@ def display_banner():
                                            
                                          THE AIO TWITCH, YOUTUBE, & KICK VIEW BOT                                
                                                            
-                                                             @duerme    
+                                                             @ImUpXD    
                                                                   """)))
     announcement = "I AM NOT RESPONSIBLE FOR ANY MALICIOUS ACTIONS TAKEN BY USERS WHO DECIDE TO USE THIS PROGRAM. PLEASE BE SAFE AND RESPONSIBLE."
     print("")
