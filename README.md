@@ -47,7 +47,7 @@ Ensure Google Chrome is installed on your system. If not, download and install i
 2. Run the Bot
 
 ```sh 
-python chimera.py
+python ViewBot.py
 ```
 
 ## Step-by-Step Tutorial
@@ -57,7 +57,7 @@ python chimera.py
 1. Navigate to the application directory and run the script:
 
 ```sh
-python chimera.py
+python ViewBot.py
 ```
 
 2. Initial Setup
